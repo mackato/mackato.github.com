@@ -1,45 +1,51 @@
 ---
 layout: page
-title: Hello World!
+title: Masakuni Kato
+tagline: Software Developer, Founder of AIRS
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+## About me
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<div class="clearfix">&nbsp;</div>
 
-## Update Author Attributes
+<img class="pull-left" src="https://ja.gravatar.com/userimage/768870/7951fa45ca999231860b876db3b5969a.jpg" width="80" height="80"
+alt="Profile image" title="Mr. Kato from Green hornet" style="margin-right: 10px">
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+I'm a Micropreneur building several webapps and iPhone apps.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+I love Ruby programming language, Agile development, Cloud computing and Mac.<br>
+[Our company](http://www.airs.co.jp/ "AIRS, inc") is in Hamamatsu, Japan.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+<div class="clearfix">&nbsp;</div>
 
-    $ rm -rf _posts/core-samples
+## Connect me
 
-Here's a sample "posts list".
+![GitHub](/images/icondoc-vector-social-media-icons/PNG/16px/github.png)
+[mackato](http://github.com/mackato)
+,
+![Twitter](/images/icondoc-vector-social-media-icons/PNG/16px/twitter.png)
+[mackato](http://twitter.com/mackato)
+,
+![Facebook](/images/icondoc-vector-social-media-icons/PNG/16px/facebook.png)
+[mackato](http://facebook.com/mackato)
+,
+![Linked in](/images/icondoc-vector-social-media-icons/PNG/16px/linkedin.png)
+[Masakuni Kato](http://www.linkedin.com/pub/masakuni-kato/21/826/7b1)
+,
+![Foursquare](/images/icondoc-vector-social-media-icons/PNG/16px/foursquare.png)
+[Masakuni Kato](https://ja.foursquare.com/user/551063)
+,
+![Appstore](/images/icondoc-vector-social-media-icons/PNG/16px/app-store-2.png)
+[Eatwit](http://itunes.apple.com/app/eatwit/id404702543?mt=8)
+
+Vector Social Media Icons by [IconDock.com & Double-J Design](http://icondock.com/free/vector-social-media-icons)
+
+## Recent Posts
 
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
 
