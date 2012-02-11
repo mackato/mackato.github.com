@@ -33,6 +33,9 @@ I love Ruby programming language, Agile development, Cloud computing and Mac.<br
 ![Linked in](/images/icondoc-vector-social-media-icons/PNG/16px/linkedin.png)
 [Masakuni Kato](http://www.linkedin.com/pub/masakuni-kato/21/826/7b1)
 ,
+![Slideshare](/images/icondoc-vector-social-media-icons/PNG/16px/slideshare.png)
+[mackato](http://www.slideshare.net/mackato)
+,
 ![Foursquare](/images/icondoc-vector-social-media-icons/PNG/16px/foursquare.png)
 [Masakuni Kato](https://ja.foursquare.com/user/551063)
 ,
